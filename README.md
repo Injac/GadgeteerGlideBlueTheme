@@ -25,3 +25,9 @@ Glide is a graphical library for .NET Micro Framework (NETMF) that uses a graphi
 * Keyboard handling and customization.
 * MessageBox handling.
 * Can work on the default emulator or any NETMF device with graphics support.
+
+#### Screens Samples ####
+
+![Screen1](https://cloud.githubusercontent.com/assets/1821384/5153678/c114eda6-7233-11e4-996f-7aba5e49bdbd.Jpeg)
+
+![Screen1](https://cloud.githubusercontent.com/assets/1821384/5153673/a2df7ad6-7233-11e4-879c-8dc64e46108b.Jpeg)
